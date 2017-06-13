@@ -1,0 +1,11 @@
+E:\zcsgit\FluentScheduler\Test\bin\Debug\Test.exe.config
+E:\zcsgit\FluentScheduler\Test\bin\Debug\Test.exe
+E:\zcsgit\FluentScheduler\Test\bin\Debug\Test.pdb
+E:\zcsgit\FluentScheduler\Test\bin\Debug\MySchedulerHelper.dll
+E:\zcsgit\FluentScheduler\Test\bin\Debug\FluentScheduler.dll
+E:\zcsgit\FluentScheduler\Test\bin\Debug\MySchedulerHelper.pdb
+E:\zcsgit\FluentScheduler\Test\bin\Debug\FluentScheduler.pdb
+E:\zcsgit\FluentScheduler\Test\bin\Debug\FluentScheduler.xml
+E:\zcsgit\FluentScheduler\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\zcsgit\FluentScheduler\Test\obj\Debug\Test.exe
+E:\zcsgit\FluentScheduler\Test\obj\Debug\Test.pdb

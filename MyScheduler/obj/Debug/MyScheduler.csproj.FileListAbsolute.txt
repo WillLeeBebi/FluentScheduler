@@ -1,0 +1,14 @@
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\MyScheduler.exe.config
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\MyScheduler.exe
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\MyScheduler.pdb
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Common.Logging.dll
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Quartz.dll
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Common.Logging.pdb
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Common.Logging.xml
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Quartz.pdb
+E:\zcsgit\FluentScheduler\MyScheduler\bin\Debug\Quartz.xml
+E:\zcsgit\FluentScheduler\MyScheduler\obj\Debug\MyScheduler.csprojResolveAssemblyReference.cache
+E:\zcsgit\FluentScheduler\MyScheduler\obj\Debug\MyScheduler.exe
+E:\zcsgit\FluentScheduler\MyScheduler\obj\Debug\MyScheduler.pdb
+E:\zcsgit\FluentScheduler\MyScheduler\obj\Debug\MyScheduler.ProjectInstaller.resources
+E:\zcsgit\FluentScheduler\MyScheduler\obj\Debug\MyScheduler.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+E:\zcsgit\FluentScheduler\MySchedulerHelper\bin\Debug\MySchedulerHelper.dll
+E:\zcsgit\FluentScheduler\MySchedulerHelper\bin\Debug\MySchedulerHelper.pdb
+E:\zcsgit\FluentScheduler\MySchedulerHelper\bin\Debug\FluentScheduler.dll
+E:\zcsgit\FluentScheduler\MySchedulerHelper\bin\Debug\FluentScheduler.pdb
+E:\zcsgit\FluentScheduler\MySchedulerHelper\bin\Debug\FluentScheduler.xml
+E:\zcsgit\FluentScheduler\MySchedulerHelper\obj\Debug\MySchedulerHelper.dll
+E:\zcsgit\FluentScheduler\MySchedulerHelper\obj\Debug\MySchedulerHelper.pdb
